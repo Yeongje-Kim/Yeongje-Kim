@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
@@ -89,17 +91,14 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
 <br>
 
 <!-- STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yeongje-Kim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeongje-Kim&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yeongje-Kim&theme=tokyonight&hide_border=true"/>
