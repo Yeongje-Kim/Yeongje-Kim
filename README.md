@@ -36,21 +36,33 @@
 <h2 align="center">🚀 Selected Work</h2>
 
 <p align="center">
-  <b>Real-time CV Pipeline on Qualcomm NPU</b> — industry project · Grepp<br>
-  4-stage vision pipeline on QCS9075, face detection to gaze estimation.<br>
-  Dual Hexagon NPU core pinning for 10 FPS, 1.9× throughput scaling.
+  <b>⚡ On-Device AI System on Qualcomm QCS9075</b><br>
+  Built and validated an end-to-end edge AI pipeline with real-time vision inference,<br>
+  QNN/NPU deployment, hardware profiling, and VPU-based video encoding.
 </p>
 
 <p align="center">
-  <b>A Decade of AV Disengagement Reports</b> — KSAE Journal · first author<br>
-  XLM-RoBERTa classification over 763 reports / 222K records across 54 institutions.<br>
-  Semi-supervised pseudo-labeling on 48K unlabeled docs.
+  <b>🚘 Genesis G90 Smart Seat Evaluation</b><br>
+  Conducted an industry-academic vehicle study using 65+ hours of synchronized pressure,<br>
+  seat-control, video, and subjective comfort data to evaluate long-duration seating performance.
 </p>
 
 <p align="center">
-  <b>Genesis G90 Sensor Validation</b> — industry project · Hyundai<br>
-  14-channel pressure sensor analysis over 65+ hrs of real-vehicle data.<br>
-  Anomaly root-cause tracing, RM-ANOVA / correlation validation.
+  <b>📊 Autonomous Driving Research Agent</b><br>
+  Built a reproducible, agent-based data pipeline to collect, normalize, classify, and analyze<br>
+  222,537 California autonomous-vehicle disengagement records across ten years.
+</p>
+
+<p align="center">
+  <b>🎮 Last Ember — AI Game Asset Pipeline</b><br>
+  Developed an AI-assisted production pipeline for generating and integrating 2,000+ game assets,<br>
+  reducing the content iteration cycle from three days to approximately three hours.
+</p>
+
+<p align="center">
+  <b>🐾 Carpybara — Connected Vehicle IoT</b><br>
+  Built a real-time vehicle accessory combining GPS and IMU sensing, ESP32-S3 edge processing,<br>
+  BLE communication, and a React-based telemetry dashboard.
 </p>
 
 <br>
