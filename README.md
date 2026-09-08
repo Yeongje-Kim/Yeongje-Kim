@@ -78,9 +78,13 @@
 <br>
 
 <!-- INTERNSHIP -->
-<h3 align="center">💼 AI / Software Internship · ColorXpert · 6 Months</h3>
+<h3 align="center">
+  <img src="https://flagcdn.com/w40/us.png" width="22" alt="US Flag" />
+  U.S. Internship · ColorXpert · 6 Months
+</h3>
 
 <p align="center">
+  <b>AI / Software Intern</b><br>
   Applying software, automation, and AI to solve operational problems in the automotive paint and body-shop industry,<br>
   transforming offline workflows into practical digital systems.
 </p>
