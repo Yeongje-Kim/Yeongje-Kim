@@ -34,7 +34,7 @@
 <h3 align="center"> Industry Projects</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hyundai_Motor_Group-002C5F?style=flat-square&logo=hyundai&logoColor=white"/>
+  <img src="https://github.com/user-attachments/assets/6d5ddb4e-6d2b-4d3f-985d-33aef1533e94"/>
 </p>
 
 <p align="center">
