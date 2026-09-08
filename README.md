@@ -45,12 +45,12 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Grepp-222222?style=flat-square"/>
+  <img src="./assets/grepp-logo.png" width="105" alt="Grepp" />
 </p>
 
 <p align="center">
   <b> On-Device AI</b><br>
-  Developed with Grepp by migrating a cloud-based cheating detection system to a Qualcomm QCS9075 platform,<br>
+  Collaborated with Grepp to migrate a cloud-based cheating detection system to a Qualcomm QCS9075 platform,<br>
   enabling real-time computer vision and AI inference directly on-device.
 </p>
 
