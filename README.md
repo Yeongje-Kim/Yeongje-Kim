@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/yeongje_kim_banner_loop.gif" width="100%" />
+  <img src="https://github.com/user-attachments/assets/28852cf1-e846-48fb-bbca-d2b8a784d76e" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Yeongje Kim</h1>
