@@ -27,10 +27,10 @@
 <br>
 
 <!-- EXPERIENCE -->
-<h2 align="center">🚀 Experience & Work</h2>
+<h2 align="center"> Experience & Work</h2>
 
 <!-- INDUSTRY -->
-<h3 align="center">🏢 Industry Projects</h3>
+<h3 align="center"> Industry Projects</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hyundai_Motor_Group-002C5F?style=flat-square&logo=hyundai&logoColor=white"/>
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <b>⚡ On-Device AI</b><br>
+  <b> On-Device AI</b><br>
   Developed with Grepp by migrating a cloud-based cheating detection system to a Qualcomm QCS9075 platform,<br>
   enabling real-time computer vision and AI inference directly on-device.
 </p>
@@ -58,7 +58,7 @@
 <br>
 
 <!-- RESEARCH -->
-<h3 align="center">📄 Research</h3>
+<h3 align="center"> Research</h3>
 
 <p align="center">
   <b>Autonomous Driving Disengagement Research</b><br>
@@ -75,13 +75,13 @@
 </h3>
 
 <p align="center">
-  <b>🎮 Last Ember — AI Game Asset Pipeline</b><br>
+  <b> Last Ember — AI Game Asset Pipeline</b><br>
   Developed an AI-assisted production pipeline for generating and integrating 2,000+ game assets,<br>
   reducing the content iteration cycle from three days to approximately three hours.
 </p>
 
 <p align="center">
-  <b>🐾 Carpybara — Connected Vehicle IoT</b><br>
+  <b> Carpybara — Connected Vehicle IoT</b><br>
   Built a connected vehicle system using GPS, IMU, ESP32-S3 edge processing,<br>
   BLE communication, and a React-based real-time telemetry dashboard.
 </p>
