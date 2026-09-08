@@ -45,15 +45,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a9d9c6fd-5105-441e-8b87-fcd3297eda80" width="110" alt="Grepp Logo">
-</p>
-
-<p align="center">
-  <b> On-Device AI</b><br>
-  Collaborated with Grepp to migrate a cloud-based cheating detection system to a Qualcomm QCS9075 platform,<br>
-  enabling real-time computer vision and AI inference directly on-device.
-</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/36dee1b1-7bc9-4edf-b9b5-48189ae68c83" width="110" alt="Korea Automotive Technology Institute">
@@ -65,6 +56,21 @@
 </p>
 
 <br>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9d9c6fd-5105-441e-8b87-fcd3297eda80" width="110" alt="Grepp Logo">
+</p>
+
+<p align="center">
+  <b> On-Device AI</b><br>
+  Collaborated with Grepp to migrate a cloud-based cheating detection system to a Qualcomm QCS9075 platform,<br>
+  enabling real-time computer vision and AI inference directly on-device.
+</p>
+
+<br>
+
+
 
 <!-- US PBL -->
 <h3 align="center">
