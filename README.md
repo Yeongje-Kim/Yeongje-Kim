@@ -38,6 +38,12 @@
   seat-control, video, and subjective comfort data to evaluate long-duration seating performance.
 </p>
 
+<p align="center">
+  <b>⚡ On-Device AI</b><br>
+  Migrated a cloud-based cheating detection system to a Qualcomm QCS9075 platform,<br>
+  enabling real-time computer vision and AI inference directly on-device.
+</p>
+
 <br>
 
 <!-- RESEARCH -->
@@ -53,12 +59,6 @@
 
 <!-- US PBL -->
 <h3 align="center">🇺🇸 U.S. Global PBL Program · 6 Months</h3>
-
-<p align="center">
-  <b>⚡ On-Device AI</b><br>
-  Migrated a cloud-based cheating detection system to a Qualcomm QCS9075 platform,<br>
-  enabling real-time computer vision and AI inference directly on-device.
-</p>
 
 <p align="center">
   <b>🎮 Last Ember — AI Game Asset Pipeline</b><br>
