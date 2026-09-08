@@ -30,17 +30,28 @@
 <h2 align="center">🚀 Experience & Work</h2>
 
 <!-- INDUSTRY -->
-<h3 align="center">🏢 Industry Project</h3>
+<h3 align="center">🏢 Industry Projects</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hyundai_Motor_Group-002C5F?style=flat-square&logo=hyundai&logoColor=white"/>
+</p>
 
 <p align="center">
   <b>🚘 Genesis G90 Smart Seat Evaluation</b><br>
-  Conducted an industry-academic vehicle study using 65+ hours of synchronized pressure,<br>
-  seat-control, video, and subjective comfort data to evaluate long-duration seating performance.
+  Conducted an industry-academic project with Hyundai Motor Group using 65+ hours of synchronized<br>
+  pressure, seat-control, video, and subjective comfort data to evaluate long-duration seating performance.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Grepp-222222?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Qualcomm-QCS9075-3253DC?style=flat-square&logo=qualcomm&logoColor=white"/>
 </p>
 
 <p align="center">
   <b>⚡ On-Device AI</b><br>
-  Migrated a cloud-based cheating detection system to a Qualcomm QCS9075 platform,<br>
+  Developed with Grepp by migrating a cloud-based cheating detection system to a Qualcomm QCS9075 platform,<br>
   enabling real-time computer vision and AI inference directly on-device.
 </p>
 
