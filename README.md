@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Yeongje%20Kim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="./assets/github-header.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Yeongje Kim</h1>
