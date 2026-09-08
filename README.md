@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/grepp-logo.png" width="110" alt="Grepp Logo">
+  <img src="./grepp-logo.png" width="110" alt="Grepp Logo">
 </p>
 
 <p align="center">
