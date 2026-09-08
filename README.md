@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/bf802e4e-b82e-4a13-b714-96521062872e" width="110" alt="Korea Automotive Technology Institute">
+  <img src="https://github.com/user-attachments/assets/36dee1b1-7bc9-4edf-b9b5-48189ae68c83" width="110" alt="Korea Automotive Technology Institute">
 
 <p align="center">
   <b>Autonomous Driving Disengagement Research</b><br>
