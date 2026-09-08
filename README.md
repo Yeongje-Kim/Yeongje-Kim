@@ -58,7 +58,10 @@
 <br>
 
 <!-- US PBL -->
-<h3 align="center">🇺🇸 U.S. Global PBL Program · 6 Months</h3>
+<h3 align="center">
+  <img src="https://flagcdn.com/w40/us.png" width="22" alt="US Flag" />
+  U.S. Global PBL Program · 6 Months
+</h3>
 
 <p align="center">
   <b>🎮 Last Ember — AI Game Asset Pipeline</b><br>
