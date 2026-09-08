@@ -55,10 +55,9 @@
   enabling real-time computer vision and AI inference directly on-device.
 </p>
 
-<br>
-
-<!-- RESEARCH -->
-<h3 align="center"> Research</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/365ab8de-af83-4c28-a9c6-51983213d627" width="110" alt="Korea Automotive Technology Institute">
+</p><img width="80" height="49" alt="그림1" src="" />
 
 <p align="center">
   <b>Autonomous Driving Disengagement Research</b><br>
