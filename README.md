@@ -37,9 +37,7 @@
 </p>
 
 <p align="center">
-  <b> <p align="center">
-  <img src="https://img.shields.io/badge/Hyundai_Motor_Group-002C5F?style=flat-square&logo=hyundai&logoColor=white"/>
-</p> Genesis G90 Smart Seat Evaluation</b><br>
+  <b> Genesis G90 Smart Seat Evaluation</b><br>
   Conducted an industry-academic project with Hyundai Motor Group using 65+ hours of synchronized<br>
   pressure, seat-control, video, and subjective comfort data to evaluate long-duration seating performance.
 </p>
