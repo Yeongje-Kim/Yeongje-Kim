@@ -1,6 +1,3 @@
-<img width="127" height="45" alt="Snipaste_2026-09-08_01-56-25" src="https://github.com/user-attachments/assets/763f74b2-2e19-4c3a-ab84-68d9c7aac88a" />
-<!-- HEADER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Yeongje%20Kim&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
