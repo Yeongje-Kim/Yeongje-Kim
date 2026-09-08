@@ -1,3 +1,4 @@
+<img width="127" height="45" alt="Snipaste_2026-09-08_01-56-25" src="https://github.com/user-attachments/assets/763f74b2-2e19-4c3a-ab84-68d9c7aac88a" />
 <!-- HEADER -->
 
 <p align="center">
@@ -45,7 +46,7 @@
 <br>
 
 <p align="center">
-  <img src="./grepp-logo.png" width="110" alt="Grepp Logo">
+  <img src="https://github.com/user-attachments/assets/a9d9c6fd-5105-441e-8b87-fcd3297eda80" width="110" alt="Grepp Logo">
 </p>
 
 <p align="center">
